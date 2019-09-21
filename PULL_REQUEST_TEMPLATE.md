@@ -1,13 +1,13 @@
 ## DESCRIPTION
 
-Nombre:
-Usuario Platzi:
+Nombre: Angelica Guiselle Mejia Alvarez
+Usuario Platzi: guissmejia
 
 ## Ciudad
 - [ ] Ciudad de México
-- [ ] Bogotá
+- [*] Bogotá
 
 # Retos:
-  - [ ] Primer problema
-  - [ ] Segundo problema
+  - [*] Primer problema
+  - [*] Segundo problema
   - [ ] Tercer problema
